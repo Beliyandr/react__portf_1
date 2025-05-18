@@ -7,6 +7,7 @@ import project03Big from './../img/projects/03-big.jpg'
 
 export const projects = [
   {
+    id: 0,
     title: 'Gaming streaming portal',
     skills: 'React, Node.js, MongoDb',
     img: project01,
@@ -15,6 +16,7 @@ export const projects = [
 
   },
   {
+    id: 1,
     title: 'Gaming streaming portal',
     skills: 'React, Node.js, MongoDb',
     img: project02,
@@ -23,6 +25,7 @@ export const projects = [
 
   },
   {
+    id: 2,
     title: 'Gaming streaming portal',
     skills: 'React, Node.js, MongoDb',
     img: project03,
@@ -31,27 +34,30 @@ export const projects = [
 
   },
   {
+    id: 3,
     title: 'Gaming streaming portal',
     skills: 'React, Node.js, MongoDb',
     img: project01,
     imgBig: project01Big,
-    gitHubLink: 'gttps://github.com',
+    // gitHubLink: 'gttps://github.com',
 
   },
   {
+    id: 4,
     title: 'Gaming streaming portal',
     skills: 'React, Node.js, MongoDb',
     img: project02,
     imgBig: project02Big,
-    gitHubLink: 'gttps://github.com',
+    // gitHubLink: 'gttps://github.com',
 
   },
   {
+    id: 5,
     title: 'Gaming streaming portal',
     skills: 'React, Node.js, MongoDb',
     img: project03,
     imgBig: project03Big,
-    gitHubLink: 'gttps://github.com',
+    // gitHubLink: 'gttps://github.com',
 
   },
 ]
