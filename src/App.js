@@ -3,8 +3,6 @@ import './styles/common.css'
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 
-
-
 import { NavBar } from './components/NavBar/NavBar';
 import { Footer } from './components/Footer/Footer';
 import { HomePage } from './pages/HomePage';
@@ -12,9 +10,6 @@ import { ProjectsPage } from './pages/ProjectsPage';
 import { ContactsPage } from './pages/ContactsPage';
 import { ProjectPage } from './pages/ProjectPage';
 import { ScrolToTop } from './utils/ScrolToTop';
-
-
-
 
 function App() {
 

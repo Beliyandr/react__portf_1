@@ -1,19 +1,13 @@
-import React from 'react'
 import './NavBar.css'
 
 import { NavLink } from 'react-router-dom'
 import { ButtonDarkMode } from '../ButtonDarkMode'
 
-// const getActiveNav = ({ isActive }: { isActive: Boolean }) => {
-
-//  }
-
-const activeLink = 'nav-list__link nav-list__link--active';
-const normalLink = 'nav-list__link'
-
-
-
 export const NavBar = () => {
+
+  const activeLink = 'nav-list__link nav-list__link--active';
+  const normalLink = 'nav-list__link'
+
   return (
     <nav className="nav">
       <div className="container">
