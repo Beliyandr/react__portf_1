@@ -1,0 +1,134 @@
+.nav {
+  padding: 20px 0;
+  background-color: var(--nav-bg);
+  border-bottom: 1px solid var(--nav-border);
+  color: var(--nav-text);
+  letter-spacing: normal;
+
+
+  &-row {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    column-gap: 30px;
+    row-gap: 20px;
+    flex-wrap: wrap;
+  }
+
+
+  &-list {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    align-items: center;
+    column-gap: 40px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+
+    @media (max-width:640px) {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 30px;
+      position: absolute;
+      right: 50%;
+      top: -1000px;
+      transform: translateX(50%);
+      z-index: 10;
+      transition: all 0.4s;
+    }
+  }
+
+  &-list__link {
+    color: var(--nav-text);
+    transition: opacity 0.2s ease-in;
+  }
+
+  &-list__link:hover {
+    opacity: 0.8;
+  }
+
+  &-list__link--active {
+    position: relative;
+  }
+
+  &-list__link--active::before {
+    content: '';
+
+    position: absolute;
+    left: 0;
+    top: 100%;
+
+    display: block;
+    height: 2px;
+    width: 100%;
+    background-color: var(--accent);
+  }
+}
+
+.logo {
+  margin-right: auto;
+  color: var(--nav-text);
+  font-size: 24px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.logo strong {
+  font-weight: 700;
+}
+
+.burger {
+  background-color: transparent;
+  border: none;
+  position: relative;
+  z-index: 10;
+  width: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  // border-left: 1px solid var(--black);
+  cursor: pointer;
+  transition: all 0.4s;
+
+  &:hover {
+    scale: 1.1;
+  }
+
+  @media (min-width: 640px) {
+    display: none;
+
+  }
+}
+
+
+body {
+  transition: all 0.3s;
+
+  :has(.nav__active) &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--black-border);
+    transition: all 0.3s;
+
+  }
+
+}
+
+.nav__active .nav-list {
+  top: 100px;
+
+}
+
+body:has(.nav__active) {
+  overflow-y: hidden;
+}
+
+.logo {
+  position: relative;
+}

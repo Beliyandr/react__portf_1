@@ -9,15 +9,15 @@ export const ContactsPage = () => {
         <ul className="content-list">
           <li className="content-list__item">
             <h2 className="title-2">Location</h2>
-            <p>Moscow, Russia</p>
+            <p>Kamyanske, Ukraine</p>
           </li>
           <li className="content-list__item">
-            <h2 className="title-2">Telegram / WhatsApp</h2>
-            <p><a href="tel:+79051234567">+7 (905) 123-45-67</a></p>
+            <h2 className="title-2">Telegram </h2>
+            <p><a href="tel:+380502424958">+38 (050) 242-49-58</a></p>
           </li>
           <li className="content-list__item">
             <h2 className="title-2">Email</h2>
-            <p><a href="mailto:webdev@protonmail.com">webdev@protonmail.com</a></p>
+            <p><a href="mailto:beliavtsev.andrey@gmail.com">beliavtsev.andrey@gmail.com</a></p>
           </li>
         </ul>
 

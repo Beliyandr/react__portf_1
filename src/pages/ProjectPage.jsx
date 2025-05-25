@@ -28,6 +28,8 @@ export const ProjectPage = () => {
             <p>Skills: {project.skills}</p>
           </div>
 
+          <a href={project.link} style={{ marginBottom: '10px' }} className="btn" target='_blank'>Link to project</a>
+
           {project.gitHubLink &&
             <ButtonGitHub link={project.gitHubLink} />
           }
