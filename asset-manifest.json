@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/fashion_react_shop/static/css/main.ca5e5cda.css",
-    "main.js": "/fashion_react_shop/static/js/main.9821f9af.js",
-    "static/media/air.png": "/fashion_react_shop/static/media/air.746523d94380f87333cb.png",
-    "static/media/museum2.png": "/fashion_react_shop/static/media/museum2.d576d0c55dccd53bb6f9.png",
-    "static/media/growfy.png": "/fashion_react_shop/static/media/growfy.665ae2c0b23620773e16.png",
-    "static/media/02-big.jpg": "/fashion_react_shop/static/media/02-big.55e8268286a008f0aa84.jpg",
-    "static/media/gocorona.png": "/fashion_react_shop/static/media/gocorona.941c8bc4317ce300dec6.png",
-    "static/media/header-bg.png": "/fashion_react_shop/static/media/header-bg.5bf82a058f892ab7f237.png",
-    "static/media/todo.png": "/fashion_react_shop/static/media/todo.042d460eed4f4ad7aca0.png",
-    "static/media/sun.svg": "/fashion_react_shop/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
-    "static/media/moon.svg": "/fashion_react_shop/static/media/moon.312bed9230c94183d589bcc499993093.svg",
-    "static/media/gitHub.svg": "/fashion_react_shop/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
-    "static/media/gitHub-black.svg": "/fashion_react_shop/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
-    "static/media/instagram.svg": "/fashion_react_shop/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
-    "static/media/twitter.svg": "/fashion_react_shop/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
-    "static/media/linkedIn.svg": "/fashion_react_shop/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
-    "static/media/close.svg": "/fashion_react_shop/static/media/close.3ea864f59fecb8596c4be9c8a455c02a.svg",
-    "static/media/burger.svg": "/fashion_react_shop/static/media/burger.79493d978b6370e711c211852bd5b3b7.svg",
-    "index.html": "/fashion_react_shop/index.html",
-    "main.ca5e5cda.css.map": "/fashion_react_shop/static/css/main.ca5e5cda.css.map",
-    "main.9821f9af.js.map": "/fashion_react_shop/static/js/main.9821f9af.js.map"
+    "main.css": "/react__portf_1/static/css/main.73c5b58b.css",
+    "main.js": "/react__portf_1/static/js/main.384dae66.js",
+    "static/media/air.png": "/react__portf_1/static/media/air.746523d94380f87333cb.png",
+    "static/media/museum2.png": "/react__portf_1/static/media/museum2.d576d0c55dccd53bb6f9.png",
+    "static/media/growfy.png": "/react__portf_1/static/media/growfy.665ae2c0b23620773e16.png",
+    "static/media/02-big.jpg": "/react__portf_1/static/media/02-big.55e8268286a008f0aa84.jpg",
+    "static/media/gocorona.png": "/react__portf_1/static/media/gocorona.941c8bc4317ce300dec6.png",
+    "static/media/header-bg.png": "/react__portf_1/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/todo.png": "/react__portf_1/static/media/todo.042d460eed4f4ad7aca0.png",
+    "static/media/sun.svg": "/react__portf_1/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
+    "static/media/moon.svg": "/react__portf_1/static/media/moon.312bed9230c94183d589bcc499993093.svg",
+    "static/media/gitHub.svg": "/react__portf_1/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
+    "static/media/gitHub-black.svg": "/react__portf_1/static/media/gitHub-black.879a08487a26f06ac21248a96c866696.svg",
+    "static/media/instagram.svg": "/react__portf_1/static/media/instagram.6b0ce32a930db2eac1c21600458a8cd0.svg",
+    "static/media/twitter.svg": "/react__portf_1/static/media/twitter.9ca7b7d7634476270a563192e3f69250.svg",
+    "static/media/linkedIn.svg": "/react__portf_1/static/media/linkedIn.55523f62797ddb51e960322dd47e5636.svg",
+    "static/media/close.svg": "/react__portf_1/static/media/close.dc88a3f670a63fe2d422f38f1a422a00.svg",
+    "static/media/burger.svg": "/react__portf_1/static/media/burger.79493d978b6370e711c211852bd5b3b7.svg",
+    "index.html": "/react__portf_1/index.html",
+    "main.73c5b58b.css.map": "/react__portf_1/static/css/main.73c5b58b.css.map",
+    "main.384dae66.js.map": "/react__portf_1/static/js/main.384dae66.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca5e5cda.css",
-    "static/js/main.9821f9af.js"
+    "static/css/main.73c5b58b.css",
+    "static/js/main.384dae66.js"
   ]
 }
