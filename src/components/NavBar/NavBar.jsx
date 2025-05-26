@@ -4,8 +4,8 @@ import './NavBar.scss'
 import { NavLink } from 'react-router-dom'
 import { ButtonDarkMode } from '../ButtonDarkMode'
 
-import closeIcon from './../../img/icons/close.svg'
-import burgerIcon from './../../img/icons/burger.svg'
+import closeIcon from './../../img/icons/close_2.png'
+import burgerIcon from './../../img/icons/burger.png'
 
 
 export const NavBar = () => {
@@ -24,9 +24,9 @@ export const NavBar = () => {
           <ButtonDarkMode />
 
           <ul className="nav-list" >
-            <li className="nav-list__item"><NavLink to="/" className={({ isActive }) => isActive ? activeLink : normalLink}>Home</NavLink></li>
-            <li className="nav-list__item"><NavLink to="/projects" className={({ isActive }) => isActive ? activeLink : normalLink}>Projects</NavLink></li>
-            <li className="nav-list__item"><NavLink to="/contacts" className={({ isActive }) => isActive ? activeLink : normalLink}>Contacts</NavLink></li>
+            <li className="nav-list__item"><NavLink to="/" onClick={() => setIsActive(false)} className={({ isActive }) => isActive ? activeLink : normalLink}>Home</NavLink></li>
+            <li className="nav-list__item"><NavLink to="/projects" onClick={() => setIsActive(false)} className={({ isActive }) => isActive ? activeLink : normalLink}>Projects</NavLink></li>
+            <li className="nav-list__item"><NavLink to="/contacts" onClick={() => setIsActive(false)} className={({ isActive }) => isActive ? activeLink : normalLink}>Contacts</NavLink></li>
           </ul>
 
           <button

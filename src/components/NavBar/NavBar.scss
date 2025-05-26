@@ -44,6 +44,10 @@
   &-list__link {
     color: var(--nav-text);
     transition: opacity 0.2s ease-in;
+
+    @media (max-width:640px) {
+      font-size: 32px;
+    }
   }
 
   &-list__link:hover {
@@ -121,7 +125,7 @@ body {
 }
 
 .nav__active .nav-list {
-  top: 100px;
+  top: 120px;
 
 }
 
