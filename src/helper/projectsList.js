@@ -8,6 +8,8 @@ import project04 from './../img/projects/todo.png'
 import project04Big from './../img/projects/todo.png'
 import project05 from './../img/projects/growfy.png'
 import project05Big from './../img/projects/growfy.png'
+import project06 from './../img/projects/profol.png'
+import project06Big from './../img/projects/profol.png'
 
 export const projects = [
   {
@@ -58,6 +60,16 @@ export const projects = [
     imgBig: project05Big,
     link: 'https://beliyandr.github.io/Grofy/',
     gitHubLink: 'https://github.com/Beliyandr/Grofy',
+
+  },
+  {
+    id: 5,
+    title: 'Portfolio',
+    skills: 'HTML,CSS,JS,React, React-router',
+    img: project06,
+    imgBig: project06Big,
+    link: 'https://beliyandr.github.io/react__portf_1/',
+    gitHubLink: 'https://github.com/Beliyandr/react__portf_1',
 
   },
 
