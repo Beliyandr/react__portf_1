@@ -1,5 +1,6 @@
 {
   "name": "fashion-react",
+  "homepage": "https://beliyandr.github.io/fashion_react_shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

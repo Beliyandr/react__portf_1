@@ -6,6 +6,8 @@ import project03 from './../img/projects/air.png'
 import project03Big from './../img/projects/air.png'
 import project04 from './../img/projects/todo.png'
 import project04Big from './../img/projects/todo.png'
+import project05 from './../img/projects/growfy.png'
+import project05Big from './../img/projects/growfy.png'
 
 export const projects = [
   {
@@ -50,11 +52,12 @@ export const projects = [
   },
   {
     id: 4,
-    title: 'Gaming streaming portal',
-    skills: 'React, Node.js, MongoDb',
-    img: project02,
-    imgBig: project02Big,
-    // gitHubLink: 'gttps://github.com',
+    title: 'Growfy',
+    skills: 'HTML,CSS,JS',
+    img: project05,
+    imgBig: project05Big,
+    link: 'https://beliyandr.github.io/Grofy/',
+    gitHubLink: 'https://github.com/Beliyandr/Grofy',
 
   },
   {
