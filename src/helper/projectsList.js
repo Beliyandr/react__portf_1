@@ -60,13 +60,5 @@ export const projects = [
     gitHubLink: 'https://github.com/Beliyandr/Grofy',
 
   },
-  {
-    id: 5,
-    title: 'Gaming streaming portal',
-    skills: 'React, Node.js, MongoDb',
-    img: project03,
-    imgBig: project03Big,
-    // gitHubLink: 'gttps://github.com',
 
-  },
 ]

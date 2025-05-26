@@ -1,7 +1,7 @@
 import './styles/reset.css'
 import './styles/common.css'
 
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import { HashRouter as Router, Routes, Route } from 'react-router-dom'
 
 import { NavBar } from './components/NavBar/NavBar';
 import { Footer } from './components/Footer/Footer';
