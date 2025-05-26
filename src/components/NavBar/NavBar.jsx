@@ -25,8 +25,8 @@ export const NavBar = () => {
 
           <ul className="nav-list" >
             <li className="nav-list__item"><NavLink to="/" className={({ isActive }) => isActive ? activeLink : normalLink}>Home</NavLink></li>
-            <li className="nav-list__item"><NavLink to="projects" className={({ isActive }) => isActive ? activeLink : normalLink}>Projects</NavLink></li>
-            <li className="nav-list__item"><NavLink to="contacts" className={({ isActive }) => isActive ? activeLink : normalLink}>Contacts</NavLink></li>
+            <li className="nav-list__item"><NavLink to="/projects" className={({ isActive }) => isActive ? activeLink : normalLink}>Projects</NavLink></li>
+            <li className="nav-list__item"><NavLink to="/contacts" className={({ isActive }) => isActive ? activeLink : normalLink}>Contacts</NavLink></li>
           </ul>
 
           <button
