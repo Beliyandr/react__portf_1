@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/react__portf_1/static/css/main.73c5b58b.css",
-    "main.js": "/react__portf_1/static/js/main.a1ab62e8.js",
+    "main.js": "/react__portf_1/static/js/main.9d5f3ba0.js",
     "static/media/air.png": "/react__portf_1/static/media/air.746523d94380f87333cb.png",
     "static/media/museum2.png": "/react__portf_1/static/media/museum2.d576d0c55dccd53bb6f9.png",
     "static/media/growfy.png": "/react__portf_1/static/media/growfy.665ae2c0b23620773e16.png",
     "static/media/02-big.jpg": "/react__portf_1/static/media/02-big.55e8268286a008f0aa84.jpg",
     "static/media/gocorona.png": "/react__portf_1/static/media/gocorona.941c8bc4317ce300dec6.png",
+    "static/media/profol.png": "/react__portf_1/static/media/profol.ae932bcdd495b9606e11.png",
     "static/media/header-bg.png": "/react__portf_1/static/media/header-bg.5bf82a058f892ab7f237.png",
     "static/media/todo.png": "/react__portf_1/static/media/todo.042d460eed4f4ad7aca0.png",
     "static/media/sun.svg": "/react__portf_1/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
@@ -20,10 +21,10 @@
     "static/media/burger.svg": "/react__portf_1/static/media/burger.79493d978b6370e711c211852bd5b3b7.svg",
     "index.html": "/react__portf_1/index.html",
     "main.73c5b58b.css.map": "/react__portf_1/static/css/main.73c5b58b.css.map",
-    "main.a1ab62e8.js.map": "/react__portf_1/static/js/main.a1ab62e8.js.map"
+    "main.9d5f3ba0.js.map": "/react__portf_1/static/js/main.9d5f3ba0.js.map"
   },
   "entrypoints": [
     "static/css/main.73c5b58b.css",
-    "static/js/main.a1ab62e8.js"
+    "static/js/main.9d5f3ba0.js"
   ]
 }
