@@ -81,8 +81,8 @@ export const projects = [
     skills: 'HTML , SCSS , JS',
     img: futureTechImg,
     imgBig: futureTechImg,
-    link: 'https://github.com/Beliyandr/future-tech',
-    gitHubLink: 'https://beliyandr.github.io/future-tech/',
+    link: 'https://beliyandr.github.io/future-tech/',
+    gitHubLink: 'https://github.com/Beliyandr/future-tech',
   },
 
 ]
