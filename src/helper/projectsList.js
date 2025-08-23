@@ -8,6 +8,9 @@ import project04 from './../img/projects/todo.png'
 import project04Big from './../img/projects/todo.png'
 import project05 from './../img/projects/growfy.png'
 import project05Big from './../img/projects/growfy.png'
+import futureTechImg from './../img/projects/Future-tech.jpg'
+
+
 import project06 from './../img/projects/profol.png'
 import project06Big from './../img/projects/profol.png'
 
@@ -71,6 +74,15 @@ export const projects = [
     link: 'https://beliyandr.github.io/react__portf_1/',
     gitHubLink: 'https://github.com/Beliyandr/react__portf_1',
 
+  },
+  {
+    id: 6,
+    title: 'Future-tech',
+    skills: 'HTML , SCSS , JS',
+    img: futureTechImg,
+    imgBig: futureTechImg,
+    link: 'https://github.com/Beliyandr/future-tech',
+    gitHubLink: 'https://beliyandr.github.io/future-tech/',
   },
 
 ]
