@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/react__portf_1/static/css/main.4cfc4eb4.css",
-    "main.js": "/react__portf_1/static/js/main.0e27637c.js",
+    "main.js": "/react__portf_1/static/js/main.b38c9f16.js",
     "static/media/air.png": "/react__portf_1/static/media/air.746523d94380f87333cb.png",
     "static/media/museum2.png": "/react__portf_1/static/media/museum2.d576d0c55dccd53bb6f9.png",
     "static/media/growfy.png": "/react__portf_1/static/media/growfy.665ae2c0b23620773e16.png",
     "static/media/02-big.jpg": "/react__portf_1/static/media/02-big.55e8268286a008f0aa84.jpg",
+    "static/media/Future-tech.jpg": "/react__portf_1/static/media/Future-tech.25ab275584eba360dcae.jpg",
     "static/media/close_2.png": "/react__portf_1/static/media/close_2.808f330e278dfe6f4009.png",
     "static/media/gocorona.png": "/react__portf_1/static/media/gocorona.941c8bc4317ce300dec6.png",
     "static/media/profol.png": "/react__portf_1/static/media/profol.ae932bcdd495b9606e11.png",
@@ -20,10 +21,10 @@
     "static/media/linkedIn.svg": "/react__portf_1/static/media/linkedIn.55523f62797ddb51e960322dd47e5636.svg",
     "index.html": "/react__portf_1/index.html",
     "main.4cfc4eb4.css.map": "/react__portf_1/static/css/main.4cfc4eb4.css.map",
-    "main.0e27637c.js.map": "/react__portf_1/static/js/main.0e27637c.js.map"
+    "main.b38c9f16.js.map": "/react__portf_1/static/js/main.b38c9f16.js.map"
   },
   "entrypoints": [
     "static/css/main.4cfc4eb4.css",
-    "static/js/main.0e27637c.js"
+    "static/js/main.b38c9f16.js"
   ]
 }
