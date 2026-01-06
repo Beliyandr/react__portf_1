@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react__portf_1/static/css/main.4cfc4eb4.css",
-    "main.js": "/react__portf_1/static/js/main.b38c9f16.js",
+    "main.js": "/react__portf_1/static/js/main.8930a741.js",
     "static/media/air.png": "/react__portf_1/static/media/air.746523d94380f87333cb.png",
     "static/media/museum2.png": "/react__portf_1/static/media/museum2.d576d0c55dccd53bb6f9.png",
     "static/media/growfy.png": "/react__portf_1/static/media/growfy.665ae2c0b23620773e16.png",
@@ -10,6 +10,7 @@
     "static/media/close_2.png": "/react__portf_1/static/media/close_2.808f330e278dfe6f4009.png",
     "static/media/gocorona.png": "/react__portf_1/static/media/gocorona.941c8bc4317ce300dec6.png",
     "static/media/profol.png": "/react__portf_1/static/media/profol.ae932bcdd495b9606e11.png",
+    "static/media/react-todo-2.png": "/react__portf_1/static/media/react-todo-2.89debd72d41c2a402830.png",
     "static/media/header-bg.png": "/react__portf_1/static/media/header-bg.5bf82a058f892ab7f237.png",
     "static/media/todo.png": "/react__portf_1/static/media/todo.042d460eed4f4ad7aca0.png",
     "static/media/sun.svg": "/react__portf_1/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
@@ -21,10 +22,10 @@
     "static/media/linkedIn.svg": "/react__portf_1/static/media/linkedIn.55523f62797ddb51e960322dd47e5636.svg",
     "index.html": "/react__portf_1/index.html",
     "main.4cfc4eb4.css.map": "/react__portf_1/static/css/main.4cfc4eb4.css.map",
-    "main.b38c9f16.js.map": "/react__portf_1/static/js/main.b38c9f16.js.map"
+    "main.8930a741.js.map": "/react__portf_1/static/js/main.8930a741.js.map"
   },
   "entrypoints": [
     "static/css/main.4cfc4eb4.css",
-    "static/js/main.b38c9f16.js"
+    "static/js/main.8930a741.js"
   ]
 }
