@@ -9,7 +9,7 @@ import project04Big from './../img/projects/todo.png'
 import project05 from './../img/projects/growfy.png'
 import project05Big from './../img/projects/growfy.png'
 import futureTechImg from './../img/projects/Future-tech.jpg'
-
+import reacttodo from './../img/projects/react-todo-2.png'
 
 import project06 from './../img/projects/profol.png'
 import project06Big from './../img/projects/profol.png'
@@ -83,6 +83,16 @@ export const projects = [
     imgBig: futureTechImg,
     link: 'https://beliyandr.github.io/future-tech/',
     gitHubLink: 'https://github.com/Beliyandr/future-tech',
+  },
+
+  {
+    id: 7,
+    title: 'React ToDo App',
+    skills: "React, React Router, JavaScript (ES6+), Responsive UI,State Management (React Context API)",
+    img: reacttodo,
+    imgBig: reacttodo,
+    link: 'https://beliyandr.github.io/react_todo-app/',
+    gitHubLink: 'https://github.com/Beliyandr/react_todo-app',
   },
 
 ]
