@@ -15,8 +15,8 @@ export const Header = () => {
         <div className="header__box">
 
           <a href="https://github.com/Beliyandr" className="btn">Link to GitHub</a>
-          <a href="https://www.work.ua/resumes/6440741/" className="btn">Link to Work.ua</a>
-          <a href="https://robota.ua/candidates/22832010" className="btn">Link to Rabota.ua</a>
+          <a href="https://www.linkedin.com/in/andrey-beliavtsev/" className="btn">Link to Linkedin</a>
+          {/* <a href="https://robota.ua/candidates/22832010" className="btn">Link to Rabota.ua</a> */}
         </div>
       </div>
     </header>
