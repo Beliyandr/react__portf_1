@@ -16,17 +16,7 @@ import project06Big from './../img/projects/profol.png'
 
 export const projects = [
   {
-    id: 6,
-    title: 'Future-tech',
-    skills: 'HTML , SCSS , JS',
-    img: futureTechImg,
-    imgBig: futureTechImg,
-    link: 'https://beliyandr.github.io/future-tech/',
-    gitHubLink: 'https://github.com/Beliyandr/future-tech',
-  },
-
-  {
-    id: 7,
+    id: 0,
     title: 'React ToDo App',
     skills: "React, React Router, JavaScript (ES6+), Responsive UI,State Management (React Context API)",
     img: reacttodo,
@@ -34,16 +24,7 @@ export const projects = [
     link: 'https://beliyandr.github.io/react_todo-app/',
     gitHubLink: 'https://github.com/Beliyandr/react_todo-app',
   },
-  {
-    id: 0,
-    title: 'Museum',
-    skills: 'HTML,SCSS,JS',
-    img: project01,
-    imgBig: project01Big,
-    link: 'https://beliyandr.github.io/Museum_2/',
-    gitHubLink: 'https://github.com/beliyandr/Museum_2/',
 
-  },
   {
     id: 1,
     title: 'Gocorona',
@@ -94,6 +75,25 @@ export const projects = [
     gitHubLink: 'https://github.com/Beliyandr/react__portf_1',
 
   },
+  {
+    id: 6,
+    title: 'Future-tech',
+    skills: 'HTML , SCSS , JS',
+    img: futureTechImg,
+    imgBig: futureTechImg,
+    link: 'https://beliyandr.github.io/future-tech/',
+    gitHubLink: 'https://github.com/Beliyandr/future-tech',
+  },
 
+  {
+    id: 7,
+    title: 'Museum',
+    skills: 'HTML,SCSS,JS',
+    img: project01,
+    imgBig: project01Big,
+    link: 'https://beliyandr.github.io/Museum_2/',
+    gitHubLink: 'https://github.com/beliyandr/Museum_2/',
+
+  },
 
 ]
