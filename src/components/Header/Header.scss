@@ -26,10 +26,10 @@
 
   &__box {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 15px;
 
     @media (max-width: 640px) {
       flex-direction: column;
