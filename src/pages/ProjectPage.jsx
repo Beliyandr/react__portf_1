@@ -4,8 +4,6 @@ import { useParams } from 'react-router-dom'
 
 import { ButtonGitHub } from '../components/ButtonGitHub/ButtonGitHub'
 
-
-import img from './../img/projects/02-big.jpg'
 import { projects } from '../helper/projectsList'
 
 

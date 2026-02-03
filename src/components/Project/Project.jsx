@@ -1,4 +1,3 @@
-import React from 'react'
 import './Project.scss'
 import { NavLink } from 'react-router-dom'
 
