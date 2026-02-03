@@ -10,6 +10,7 @@ import project05 from './../img/projects/growfy.png'
 import project05Big from './../img/projects/growfy.png'
 import futureTechImg from './../img/projects/Future-tech.jpg'
 import reacttodo from './../img/projects/react-todo-2.png'
+import reactShop from './../img/projects/reactShop.png'
 
 import project06 from './../img/projects/profol.png'
 import project06Big from './../img/projects/profol.png'
@@ -17,6 +18,16 @@ import project06Big from './../img/projects/profol.png'
 export const projects = [
   {
     id: 0,
+    title: 'React Shop',
+    skills: "React, React Router, JavaScript (ES6+),TypeScript, Responsive UI,State Management (React Context API)",
+    img: reactShop,
+    imgBig: reactShop,
+    link: 'https://beliyandr.github.io/react_phone-catalog/',
+    gitHubLink: 'https://github.com/Beliyandr/react_phone-catalog/',
+  },
+
+  {
+    id: 1,
     title: 'React ToDo App',
     skills: "React, React Router, JavaScript (ES6+), Responsive UI,State Management (React Context API)",
     img: reacttodo,
@@ -26,7 +37,7 @@ export const projects = [
   },
 
   {
-    id: 1,
+    id: 2,
     title: 'Gocorona',
     skills: 'HTML,SCSS,JS',
     img: project02,
@@ -36,7 +47,7 @@ export const projects = [
 
   },
   {
-    id: 2,
+    id: 3,
     title: 'Air',
     skills: 'HTML,SCSS,JS',
     img: project03,
@@ -46,7 +57,7 @@ export const projects = [
 
   },
   {
-    id: 3,
+    id: 4,
     title: 'TODO-JS',
     skills: 'HTML,CSS,JS',
     img: project04,
@@ -56,7 +67,7 @@ export const projects = [
 
   },
   {
-    id: 4,
+    id: 5,
     title: 'Growfy',
     skills: 'HTML,CSS,JS',
     img: project05,
@@ -66,7 +77,7 @@ export const projects = [
 
   },
   {
-    id: 5,
+    id: 6,
     title: 'Portfolio',
     skills: 'HTML,CSS,JS,React, React-router',
     img: project06,
@@ -76,7 +87,7 @@ export const projects = [
 
   },
   {
-    id: 6,
+    id: 7,
     title: 'Future-tech',
     skills: 'HTML , SCSS , JS',
     img: futureTechImg,
@@ -86,7 +97,7 @@ export const projects = [
   },
 
   {
-    id: 7,
+    id: 8,
     title: 'Museum',
     skills: 'HTML,SCSS,JS',
     img: project01,
